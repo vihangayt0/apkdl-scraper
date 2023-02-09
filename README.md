@@ -47,7 +47,7 @@ console.log(dllinks)
 ```js
 {
   dllink: 'https://r-static-assets.androidapks.com/rdata/98602fe90da1bbc50809d99f970f9850/org.telegram.messenger_v9.4.0-30981_Android-4.4.apk',
-  size: 'Download APK (35.7 MB)'
+  size: '35.7 MB'
 }
 ```
 ***
