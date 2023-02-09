@@ -1,5 +1,5 @@
 {
-    "name": "globle-population-scraper",
+    "name": "@vihangayt0/apkdl-scraper",
     "version": "1.0.0",
     "description": "Get Globle Population From countrymeters.info",
     "main": "app.js",
@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vihangayt0/Globle-Population-Scraper.git"
+        "url": "git+https://github.com/vihangayt0/apkdl-scraper.git"
     },
     "keywords": [
-        "globle",
-        "globle population",
+        "Apkdl",
+        "apk downloader",
         "scraper",
-        "population",
-        "world population"
+        "playstore",
+        "playstore dl"
     ],
     "dependencies": {
         "cheerio": "^1.0.0-rc.10",
@@ -26,7 +26,7 @@
     "npm_publisher": "VihangaYT",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/vihangayt0/Globle-Population-Scraper/issues"
+        "url": "https://github.com/vihangayt0/apkdl-scraper/issues"
     },
-    "homepage": "https://github.com/vihangayt0/Globle-Population-Scraper#readme"
+    "homepage": "https://github.com/vihangayt0/apkdl-scraperr#readme"
 }
