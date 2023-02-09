@@ -8,7 +8,7 @@
 ```js
 const { 
 apksearch
-} = require('apkdl-scraper')
+} = require('@vihangayt0/apkdl-scraper')
 
 let search = await apksearch('telegram')
 console.log(search)
@@ -37,7 +37,7 @@ console.log(search)
 ```js
 const { 
 apkdl
-} = require('apkdl-scraper')
+} = require('@vihangayt0/apkdl-scraper')
 
 let dllinks = await apkdl('https://androidapksfree.com/telegram/org-telegram-messenger/')
 console.log(dllinks)
