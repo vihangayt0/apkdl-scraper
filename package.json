@@ -1,5 +1,5 @@
 {
-    "name": "vihangayt0/apkdl-scraper",
+    "name": "apkdl-scraper",
     "version": "1.0.0",
     "description": "Search and get apk fron androidapksfree.com",
     "main": "app.js",
