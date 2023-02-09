@@ -1,5 +1,5 @@
 {
-    "name": "@vihangayt0/apkdl-scraper",
+    "name": "vihangayt0/apkdl-scraper",
     "version": "1.0.0",
     "description": "Get Globle Population From countrymeters.info",
     "main": "app.js",
