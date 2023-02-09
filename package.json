@@ -1,7 +1,7 @@
 {
     "name": "vihangayt0/apkdl-scraper",
     "version": "1.0.0",
-    "description": "Get Globle Population From countrymeters.info",
+    "description": "Search and get apk fron androidapksfree.com",
     "main": "app.js",
     "scripts": {
         "test": "node app.js",
